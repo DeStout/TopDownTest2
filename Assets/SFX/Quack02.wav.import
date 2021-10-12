@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Quack02.wav-062cbef349404e18939b445bafc5614d.sample"
+
+[deps]
+
+source_file="res://Assets/SFX/Quack02.wav"
+dest_files=[ "res://.import/Quack02.wav-062cbef349404e18939b445bafc5614d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
